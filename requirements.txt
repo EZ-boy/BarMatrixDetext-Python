@@ -1,0 +1,39 @@
+Bottleneck==1.3.2
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///C:/ci/cffi_1625831749120/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cryptography @ file:///C:/ci/cryptography_1633520552480/work
+cycler==0.10.0
+fonttools==4.25.0
+idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+imutils==0.5.4
+kiwisolver @ file:///C:/ci/kiwisolver_1612282606037/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1634667159685/work
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+munkres==1.1.4
+numexpr @ file:///C:/ci/numexpr_1618856738664/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1634106873763/work
+olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
+pandas @ file:///C:/ci/pandas_1632920071836/work
+Pillow==8.4.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+PyYAML==5.4.1
+pyzbar==0.1.8
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+scipy @ file:///C:/ci/scipy_1630606942584/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+sip==4.19.13
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+tornado @ file:///C:/ci/tornado_1606942392901/work
+tqdm @ file:///tmp/build/80754af9/tqdm_1631818572807/work
+typing-extensions==3.10.0.2
+urllib3==1.26.7
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
